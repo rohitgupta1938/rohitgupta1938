@@ -33,6 +33,6 @@ Email Me 👉 ✉️ **rohitgupta.fullstack@gmail.com** For Collaboration/Projec
 ![](https://github-profile-trophy.vercel.app/?username=rohitgupta1938&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rohitgupta1938&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
