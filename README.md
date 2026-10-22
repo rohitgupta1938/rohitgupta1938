@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rohit Gupta
 **A passionate Full Stack Developer || MERN Stack Developer**
 
-Email Me 👉 ✉️ **rohitgupta.fullstack@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rohitgupta1938@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** A Full-Stack E-commerce Website
 - 🌱 **I’m currently learning:** Modern Web Technologies & Software Engineering
